@@ -4,6 +4,7 @@ $(document).ready(function () {
     $('.parallax').parallax();
     $(".tabs").tabs();
     $('.datepicker').datepicker({
-        disableWeekends:true
+        disableWeekends: true
     });
+    $(".tooltipped").tooltip();
 });

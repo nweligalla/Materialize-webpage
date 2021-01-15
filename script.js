@@ -7,4 +7,5 @@ $(document).ready(function () {
         disableWeekends: true
     });
     $(".tooltipped").tooltip();
+    $(".scrollspy").scrollSpy();
 });

@@ -15,3 +15,11 @@ header {
   padding-top: 4vw;
   padding-bottom: 5vw;
 }
+
+.tabs .indicator{
+  background-color: #3f000f
+}
+
+.tabs .tab .a:focus, .tabs .tab a:focus.active{
+  background: transparent;
+}
